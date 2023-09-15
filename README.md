@@ -1,5 +1,5 @@
 <p align="center">
-<img src='[WEB PANEL/img/logo.jpg](logo.jpg)' style="height:100px;width:100px;" >
+<img src='[WEB PANEL/img/logo.jpg]' style="height:100px;width:100px;" >
 </p>
 <h1 align=center>JAVI TE ESPIA</h1>
 
