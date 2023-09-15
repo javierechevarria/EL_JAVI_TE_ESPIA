@@ -1,5 +1,5 @@
 <p align="center">
-<img src='[WEB PANEL/img/logo.png](https://img.freepik.com/premium-vector/hacker-internet-computer-security-technology-logo-concept_498048-1059.jpg)' style="height:100px;width:100px;" >
+<img src='[WEB PANEL/img/logo.jpg](logo.jpg)' style="height:100px;width:100px;" >
 </p>
 <h1 align=center>JAVI TE ESPIA</h1>
 
