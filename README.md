@@ -1,7 +1,7 @@
 <p align="center">
-<img src='WEB PANEL/img/logo.png' style="height:100px;width:100px;" >
+<img src='[WEB PANEL/img/logo.png](https://img.freepik.com/premium-vector/hacker-internet-computer-security-technology-logo-concept_498048-1059.jpg)' style="height:100px;width:100px;" >
 </p>
-<h1 align=center>AIRAVAT</h1>
+<h1 align=center>JAVI TE ESPIA</h1>
 
 #### A multifunctional Android RAT with GUI based Web Panel without port forwarding.
 
@@ -29,7 +29,6 @@
  - Run shell Commands
  - Get Clipboard text (Only When app's Activity is visible)
  - Launch Any URL (Only When app's Activity is visible)
- - Pre Binded with [Instagram Webview Phishing ](https://github.com/Th30neAnd0nly/PI)
  - Runs In Background 
     - Auto Starts on restarting the device
     - Auto Starts when any notification arrives
@@ -72,7 +71,7 @@
  1. Also create a web app and copy the config of webapp.
    ### Panel Setup
  1. You can use Github Pages , Firebase Hosting or any Hosting Website (except 000webhost) for hosting the panel.
- 1. Open [index.html](./WEB%20PANEL/index.html) File and from [line number 16](https://github.com/Th30neAnd0nly/AIRAVAT/blob/302dca641bb04c6bed72d1b2cebdfc79ccfbb046/WEB%20PANEL/index.html#L16) replace the config with your web app config which you have created on Step 6.
+ 1. Open [index.html](./WEB%20PANEL/index.html) File and from [line number 16](index.html) replace the config with your web app config which you have created on Step 6.
  1. Save the file , Your Panel Setup is completed.
  ### Android RAT
  1. Download [Instagram.apk](./ANDROID%20APP/Instagram.apk)
@@ -89,18 +88,7 @@
        ```
  1. Now compile the code with appt2.
  1. Install the app in victim's device and give all the permissions after that the connection will show up in web panel.
-  ### PoC Video 
- 1. https://youtu.be/i3JAHcsWwu0 (old video)
-  ### Tutorial Videos
-  1. https://youtu.be/an2BALW73j4 (SPHANTER)
-  1. https://youtu.be/atSX_YDniyM (Mr.Ethical YT)
 
-### ❤️Supporters❤️
-[![Stargazers repo roster for @th30neand0nly/AIRAVAT](https://reporoster.com/stars/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/stargazers)
-
-[![Forkers repo roster for @th30neand0nly/AIRAVAT](https://reporoster.com/forks/dark/Th30neAnd0nly/AIRAVAT)](https://github.com/Th30neAnd0nly/AIRAVAT/network/members)
-
-## AIRAVAT PRO <img src='WEB PANEL/img/logo.png' style="height:30px;width:30px;" >
  1. Read , Delete files from victim's device
  1. Encrypt any file in victim's device
  1. Lock Victims Device with 4 digit Pin Code
@@ -112,22 +100,6 @@
  1. Auto Start Permission for all chinese vendors.
  1. Hidden App without Foreground service notification (full stealth mode)
 <img align=center src=./.github/jpg.jpg >
-
- ### PoC Video
-  1. https://youtu.be/wWjJjaJEVAg
-
-## Contact Info 
- 1. [Telegram](https://t.me/th30neand0nly)
-
-
-## DISCLAIMER
-<p align="center">
- TO BE USED FOR EDUCATIONAL PURPOSES ONLY
-</p>
-
-
-The use of the AIRAVAT is COMPLETE RESPONSIBILITY of the END-USER. Developers assume NO liability and are NOT responsible for any misuse or damage caused by this program. Please read [LICENSE](LICENSE).
-
 
 
 
